@@ -1,3 +1,5 @@
 #pragma GCC push_options
 #pragma GCC optimize ("O3")
 #pragma GCC pop_options
+
+void qqe() __attribute__((optimize("-O2")));
